@@ -136,7 +136,7 @@ padding-left: 16px;
   background: var(--secondary-color);
 }
 .about .title::after{
-  content: "Who i am";
+  content: "Who I am";
   font-size: 20px;
   color: #191970;
   position: absolute;
@@ -202,7 +202,7 @@ padding-left: 16px;
 }
 
 .services .title::after{
-  content: "What i provide";
+  content: "What I provide";
   font-size: 20px;
   color: #191970;
   position: absolute;
@@ -271,7 +271,7 @@ padding-left: 16px;
 }
 
 .skills .title::after{
-  content: "What i Know";
+  content: "What I Know";
   font-size: 20px;
   color: #191970;
   position: absolute;
@@ -371,10 +371,10 @@ width: 300px;
   bottom: 0px;
   left: 50%;
   transform: translateX(-50%);
-  background: var(--secondary-color);
+  background: var(--primary-color);
 }
 .contact .title::after{
-  content: "get in touch";
+  content: "Get in Touch";
   font-size: 20px;
   color: #191970;
   position: absolute;
@@ -382,7 +382,7 @@ width: 300px;
   bottom: -10px;
   left: 50%;
   transform: translateX(-50%);
-  background: var(--primary-color);
+  background: var(--secondary-color);
 }
 .contact .title{
   position: relative;
